@@ -16,7 +16,7 @@ I also styled Jupyter (making the letters neon, reactive when hovering, differen
 
 Because of this, 𝗶𝗳 𝘆𝗼𝘂 𝗱𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝘁𝗵𝗶𝘀 𝗻𝗼𝘁𝗲𝗯𝗼𝗼𝗸 𝘁𝗼 𝘆𝗼𝘂𝗿 𝗰𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗮𝗻𝗱 𝗼𝗽𝗲𝗻 𝗶𝘁 𝘄𝗶𝘁𝗵 𝗩𝗶𝘀𝘂𝗮𝗹 𝗖𝗼𝗱𝗲, 𝗶𝘁 𝗽𝗿𝗼𝗯𝗮𝗯𝗹𝘆 𝘄𝗼𝗻'𝘁 𝘄𝗼𝗿𝗸 𝗮𝗻𝗱 𝗶𝘁 𝗱𝗲𝗳𝗶𝗻𝗶𝘁𝗲𝗹𝘆 𝘄𝗼𝗻'𝘁 𝗮𝗽𝗽𝗲𝗮𝗿 𝗮𝘀 𝗶𝘁 𝘀𝗵𝗼𝘂𝗹𝗱.
 
-Below is an example of what it looks like:
+At some point I will post an example here of what it looks like on my machine.
 #
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=0.1&pause=100000&color=C82F4B&random=false&width=435&lines=What's+in+it%3F)](https://git.io/typing-svg)
 
