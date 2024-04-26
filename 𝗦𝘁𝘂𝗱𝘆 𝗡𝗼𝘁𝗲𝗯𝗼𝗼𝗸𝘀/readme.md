@@ -1,7 +1,7 @@
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=0.01&center=true&vCenter=true&pause=100000&color=C82F4B&random=false&width=1000&lines=My+Study+Notebooks+%E2%9D%A3)](https://git.io/typing-svg)
 
-Here are 𝗺𝘆 𝘀𝘁𝘂𝗱𝗶𝗲𝘀 in the data area and related topics/soft skills.
+Here are 𝗺𝘆 𝗦𝘁𝘂𝗱𝘆 𝗡𝗼𝘁𝗲𝗯𝗼𝗼𝗸𝘀 in the data area and related topics/soft skills.
 
 #
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=0.1&pause=100000&color=C82F4B&random=false&width=435&lines=Why+isn't+it+in+English?)](https://git.io/typing-svg)
