@@ -3,7 +3,7 @@
 
 Here you will find my personal study notebook on 𝗱𝗮𝘁𝗮 𝗮𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 and related topics. I use the 𝗝𝘂𝗽𝘆𝘁𝗲𝗿 𝗡𝗼𝘁𝗲𝗯𝗼𝗼𝗸 extension in 𝗩𝗶𝘀𝘂𝗮𝗹 𝗖𝗼𝗱𝗲 as my personal notebook.
 
-Go into each of the folders if you want to better understand what they are about (I explain each element there).
+Fell free, go into each of the folders if you want to better understand what they are about (I explain each element there).
 
 Below you will find more details about what this is all about.
 
