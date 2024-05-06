@@ -1,14 +1,32 @@
-nome = input("Insira o nome completo: ")
+""" 
+- O nome com todas as letras maiúsculas.
+- O nome com todas as letras minúsculas.
+- Quantas letras ao todo (sem considerar espaços).
+- Quantas letras tem o primeiro nome.
+"""
 
-#Elimina os espaços e transfrma em maiúscula
-print(nome.strip().upper())
+nomeOriginal = "    Rea      Dev        "
+print(f"\nNome original com espaços: {nomeOriginal}")
 
-#Elimina os espaços e transforma em minúscula
-print(nome.strip().lower())
 
-#Tamanho da string sem os espaços
-print(len(nome.strip()))
+SplitJoin = (" ".join(nomeOriginal.split()))
+print(f"\nOriginal transformado em lista e depois juntado com 1 espaço: {SplitJoin}")
 
-#Tamanho do primeiro nome
-nome = nome.split()
-print(len(nome[0]))
+
+print(f"Transforma em maiúscula: {SplitJoin.upper()}")
+
+
+print(f"Transforma em minúscula: {SplitJoin.lower()}")
+
+
+fullJoined = ("".join(nomeOriginal.split()))
+
+
+print(f"\nTudo junto: {fullJoined}")
+print(f"Tamanho: {len(fullJoined)}")
+
+print(f"\nPrimeiro nome: {nomeOriginal.split()[0]}")
+print(f"Tamanho: {len(nomeOriginal.split()[0])}")
+
+# outra forma de fazer a conta das letras sem espaços é: 
+# print(len(nomeOriginal) - nomeOriginal.count(" "))
