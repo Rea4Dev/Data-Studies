@@ -1,4 +1,5 @@
-#Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
+
+#! Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
 
 numero1 = float(input("Digite o primeiro número: "))
 numero2 = float(input("Digite o outro número: "))

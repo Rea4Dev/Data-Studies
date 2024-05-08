@@ -1,4 +1,5 @@
-#Crie um script Python que leia dois números e tente mostrar a soma entre eles.
+
+#! Crie um programa que leia dois números e mostre a soma entre eles.
 
 numero1 = input("Digite o primeiro número: ")
 numero2 = input("Digite o segundo número: ")
