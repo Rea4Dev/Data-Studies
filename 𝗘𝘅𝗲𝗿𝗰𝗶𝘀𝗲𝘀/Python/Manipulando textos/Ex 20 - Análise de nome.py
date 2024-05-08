@@ -24,9 +24,11 @@ fullJoined = ("".join(nomeOriginal.split()))
 
 print(f"\nTudo junto: {fullJoined}")
 print(f"Tamanho: {len(fullJoined)}")
+# outra forma de fazer a conta das letras sem espaços é: 
+# print(len(nomeOriginal) - nomeOriginal.count(" "))
+
 
 print(f"\nPrimeiro nome: {nomeOriginal.split()[0]}")
 print(f"Tamanho: {len(nomeOriginal.split()[0])}")
-
-# outra forma de fazer a conta das letras sem espaços é: 
-# print(len(nomeOriginal) - nomeOriginal.count(" "))
+# outra forma de fazer a conta da quantidade de letras do primeiro nome é
+# print(f"Tamanho: {nomeOriginal.strip().find(" ")}")
