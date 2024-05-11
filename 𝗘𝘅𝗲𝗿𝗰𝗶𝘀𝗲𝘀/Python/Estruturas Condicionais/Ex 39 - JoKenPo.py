@@ -1,3 +1,6 @@
+
+#! Crie um programa que faça o computador jogar Jokenpô com você.
+
 from random import randint
 
 escolhaUser = int(input("""
@@ -9,33 +12,39 @@ escolhaPc = randint(1, 3)
 
 if escolhaPc == 1:
     if escolhaUser == 2:
-        print(f"Pc escolheu {escolhaPc}.")
+        print(f"Pc escolheu pedra.")
         print("Você ganhou.")
     elif escolhaUser == 1:
-        print(f"Pc escolheu {escolhaPc}.")
+        print(f"Pc escolheu pedra.")
         print("Empate.")
-    else:
-        print(f"Pc escolheu {escolhaPc}.")
+    elif escolhaUser == 3:
+        print(f"Pc escolheu pedra.")
         print("Você perdeu.")
+    else:
+        print("Opção Inválida.")
 
 if escolhaPc == 2:
     if escolhaUser == 3:
-        print(f"Pc escolheu {escolhaPc}.")
+        print(f"Pc escolheu papel.")
         print("Você ganhou.")
     elif escolhaUser == 2:
-        print(f"Pc escolheu {escolhaPc}.")
+        print(f"Pc escolheu papel.")
         print("Empate.")
-    else:
-        print(f"Pc escolheu {escolhaPc}.")
+    elif escolhaUser == 1:
+        print(f"Pc escolheu papel.")
         print("Você perdeu.")
+    else:
+        print("Opção Inválida.")
 
 if escolhaPc == 3:
     if escolhaUser == 1:
-        print(f"Pc escolheu {escolhaPc}.")
+        print(f"Pc escolheu tesoura.")
         print("Você ganhou.")
     elif escolhaUser == 3:
-        print(f"Pc escolheu {escolhaPc}.")
+        print(f"Pc escolheu tesoura.")
         print("Empate.")
-    else:
-        print(f"Pc escolheu {escolhaPc}.")
+    elif escolhaUser == 2:
+        print(f"Pc escolheu tesoura.")
         print("Você perdeu.")
+    else:
+        print("Opção Inválida.")
