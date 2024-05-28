@@ -17,3 +17,5 @@ lista.sort(reverse=True)
 print(f'Decrescente, fica: {lista}')
 if 5 in lista:
     print("5 está na lista")
+else:
+    print("5 não está na lista.")
