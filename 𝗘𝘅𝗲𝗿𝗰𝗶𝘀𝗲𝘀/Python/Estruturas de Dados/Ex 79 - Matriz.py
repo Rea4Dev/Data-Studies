@@ -1,19 +1,9 @@
-#Declarações
-valores = []
-count = 0
-for i in range(0, 9):
-    valores.append([])
+matriz = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
+for l in range(0, 3):
+    for c in range(0, 3):
+        matriz[l][c] = (int(input(f"Digite o valor para [{l}][{c}]: ")))
 
-#Entrada de valores
-for i in range(0, 9):
-    valores[i].append(int(input(f"Digite o valor: ")))
-
-#Saída
-for i in range(0, 9):
-    if count == 0:
-        print(valores[i], end=" ")
-    elif count % 3 != 0:
-        print(valores[i], end=" ")
-    else:
-        print()
-    count += 1
+for l in range(0, 3):
+    for c in range(0, 3):
+        print(f"{matriz[l][c]:^5}", end=" ")
+    print()
