@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"bc0f468e2e354918","type":"text","text":"[[Matemática Fundamental]]","x":-580,"y":-120,"width":250,"height":60},
+		{"id":"bc0f468e2e354918","type":"text","text":"[[Razão e Proporção]]","x":-580,"y":-120,"width":250,"height":60},
 		{"id":"3be716b4e304838f","type":"text","text":"- Operações\n- Critérios de operacionalidades\n- Multiplicação e Divisão com vírgula\n- Fração\n- Potenciação\n- Radiciação\n- Produtos Notáveis\n- Notação Científica\n- Sistemas Numéricos\n- Eq. 1° e 2°\n- Sistemas de Eq\n- Frações Algébricas","x":-580,"y":-20,"width":250,"height":420},
 		{"id":"4b3921de56dd47b4","type":"text","text":"Matemática Médio","x":-220,"y":-120,"width":250,"height":60},
 		{"id":"280f4a85c1ed3219","type":"text","text":"- Funções (função composta, função inversa e afins...)\n- Função 1°\n- Função 2°\n- Polinômios\n- Números Complexos\n- Eq. Exponenciais\n- Log","x":-305,"y":380,"width":260,"height":284},

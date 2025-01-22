@@ -17,7 +17,7 @@ INTERPRETAR A QUESTAO!
 - 13% estatistica (interpret de gráfico)
 - 10% combinatoria e probabilidade
 - 11% outros assuntos: média, moda e mediana ; exponencial
-[[Matemática Fundamental]]
+[[Razão e Proporção]]
 
 ## Linguagens
 
